@@ -1,3 +1,3 @@
 # Nishas Shoes Store
 
-## [Live Site](https://nishas-shoes.store.sh)
+## [Live Site](https://nisha-shoes-store.surge.sh/)
